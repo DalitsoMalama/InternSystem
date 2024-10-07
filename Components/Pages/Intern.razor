@@ -1,0 +1,108 @@
+﻿@page "/Intern"
+
+<PageTitle>Intern</PageTitle>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interns Management</title>
+    <link rel="stylesheet" href="~/Styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="add-user">
+            <h2>Add Intern</h2>
+            <form id="addInternForm">
+                <input type="text" id="name" placeholder="Enter Name" required><br><br>
+                <input type="email" id="email" placeholder="Enter Email" required><br><br>
+                <input type="password" id="password" placeholder="Enter Password" required><br><br>
+                <input type="text" id="project" placeholder="Enter Project" required><br><br>
+                <input type="text" id="department" placeholder="Enter Department" required><br><br>
+                <button type="submit" class="submit-btn">Submit</button>
+            </form>
+        </div>
+
+        <div class="user-list">
+            <h2>List of Interns</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Name</th>
+                        <th>Email</th>
+                        <th>Password</th>
+                        <th>Project</th>
+                        <th>Department</th>
+                        <th>Edit</th>
+                        <th>Delete</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Sample data -->
+                    <tr>
+                        <td>1</td>
+                        <td>Mahesh</td>
+                        <td>mahesh@gmail.com</td>
+                        <td>mahesh123</td>
+                        <td>Project A</td>
+                        <td>IT</td>
+                        <td><button class="edit-btn">Edit</button></td>
+                        <td><button class="delete-btn">Delete</button></td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td>Bob</td>
+                        <td>bob@gmail.com</td>
+                        <td>bob123</td>
+                        <td>Project B</td>
+                        <td>Marketing</td>
+                        <td><button class="edit-btn">Edit</button></td>
+                        <td><button class="delete-btn">Delete</button></td>
+                    </tr>
+                    <!-- Add more rows dynamically here -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        // JavaScript to handle form submission and updating table
+        document.getElementById('addInternForm').addEventListener('submit', function (e) {
+            e.preventDefault();
+
+            const name = document.getElementById('name').value;
+            const email = document.getElementById('email').value;
+            const password = document.getElementById('password').value;
+            const project = document.getElementById('project').value;
+            const department = document.getElementById('department').value;
+
+            const table = document.querySelector('tbody');
+            const rowCount = table.rows.length + 1;
+
+            const newRow = `<tr>
+                                        <td>${rowCount}</td>
+                                        <td>${name}</td>
+                                        <td>${email}</td>
+                                        <td>${password}</td>
+                                        <td>${project}</td>
+                                        <td>${department}</td>
+                                        <td><button class="edit-btn">Edit</button></td>
+                                        <td><button class="delete-btn">Delete</button></td>
+                                    </tr>`;
+
+            table.insertAdjacentHTML('beforeend', newRow);
+
+            // Clear form fields
+            document.getElementById('name').value = '';
+            document.getElementById('email').value = '';
+            document.getElementById('password').value = '';
+            document.getElementById('project').value = '';
+            document.getElementById('department').value = '';
+        });
+
+        // Additional JS for edit/delete functionality can be added later
+    </script>
+</body>
+</html>

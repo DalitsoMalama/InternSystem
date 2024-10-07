@@ -1,0 +1,48 @@
+﻿@page "/InternDash"
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Intern Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="dashboard-container">
+        <h1>Intern Dashboard</h1>
+        <div class="cards-container">
+            <div class="card">
+                <h2>Personal Profile</h2>
+                <p>View and update your personal information.</p>
+                <button class="view-btn" onclick="interProfile()">View Profile</button>
+            </div>
+
+            <div class="card">
+                <h2>View Projects</h2>
+                <p>See the list of projects assigned to you.</p>
+                <button class="view-btn" onclick="internProject()">View Projects</button>
+            </div>
+        </div>
+
+        <button class="logout-btn" onclick="logout()">Logout</button>
+    </div>
+
+    <script>
+        function interProfile() {
+            window.location.href = "/InternProfile";
+        }
+
+        function internProject() {
+            window.location.href = "/InternProj";
+        }
+    </script>
+
+    <script>
+        function logout() {
+            // Redirect to login page
+            window.location.href = "/"; // Adjust this path based on where your login page is stored
+        }
+    </script>
+</body>
+</html>

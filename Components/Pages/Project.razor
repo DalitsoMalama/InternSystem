@@ -1,0 +1,92 @@
+﻿@page "/Project"
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projects Management</title>
+    <link rel="stylesheet" href="~/Styles.razor.css">
+</head>
+<body>
+    <div class="container">
+        <div class="add-project">
+            <h2>Add Project</h2>
+            <form id="addProjectForm">
+                <input type="text" id="projectTitle" placeholder="Enter Project Title" required><br><br>
+                <textarea id="description" placeholder="Enter Project Description" required></textarea><br><br>
+                <input type="text" id="supervisor" placeholder="Enter Supervisor Name" required><br><br>
+                <button type="submit" class="submit-btn">Submit</button>
+            </form>
+        </div>
+
+        <div class="project-list">
+            <h2>List of Projects</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Id</th>
+                        <th>Project Title</th>
+                        <th>Description</th>
+                        <th>Supervisor</th>
+                        <th>Edit</th>
+                        <th>Delete</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Sample data -->
+                    <tr>
+                        <td>1</td>
+                        <td>Website Redesign</td>
+                        <td>Redesign the corporate website to improve user experience.</td>
+                        <td>John Doe</td>
+                        <td><button class="edit-btn">Edit</button></td>
+                        <td><button class="delete-btn">Delete</button></td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td>Mobile App Development</td>
+                        <td>Develop a cross-platform mobile app for customer engagement.</td>
+                        <td>Jane Smith</td>
+                        <td><button class="edit-btn">Edit</button></td>
+                        <td><button class="delete-btn">Delete</button></td>
+                    </tr>
+                    <!-- Add more rows dynamically here -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        // JavaScript to handle form submission and updating table
+        document.getElementById('addProjectForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+
+            const projectTitle = document.getElementById('projectTitle').value;
+            const description = document.getElementById('description').value;
+            const supervisor = document.getElementById('supervisor').value;
+
+            const table = document.querySelector('tbody');
+            const rowCount = table.rows.length + 1;
+
+            const newRow = `<tr>
+                                <td>${rowCount}</td>
+                                <td>${projectTitle}</td>
+                                <td>${description}</td>
+                                <td>${supervisor}</td>
+                                <td><button class="edit-btn">Edit</button></td>
+                                <td><button class="delete-btn">Delete</button></td>
+                            </tr>`;
+
+            table.insertAdjacentHTML('beforeend', newRow);
+
+            // Clear form fields
+            document.getElementById('projectTitle').value = '';
+            document.getElementById('description').value = '';
+            document.getElementById('supervisor').value = '';
+        });
+
+        // Additional JS for edit/delete functionality can be added later
+    </script>
+</body>
+</html>

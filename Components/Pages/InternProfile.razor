@@ -1,0 +1,173 @@
+﻿@page "/InternProfile"
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Intern Profile</title>
+    <style>
+        /* General Styles */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #eeeeee;
+            margin: 0;
+            padding: 0;
+            display: block;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .profile-container {
+            background-color: white;
+            border-radius: 20px;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+            width: 600px;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .profile-container img {
+            border-radius: 50%;
+            width: 100px;
+            height: 100px;
+            margin-bottom: 20px;
+        }
+
+        .profile-container h2 {
+            margin-bottom: 10px;
+            color: #333;
+        }
+
+        .profile-container p {
+            color: #888;
+            margin-bottom: 30px;
+            font-size: 14px;
+        }
+
+        .profile-container .info {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 20px;
+            padding: 10px 0;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .profile-container .info span,
+        .profile-container .info input {
+            color: #333;
+            font-weight: bold;
+            width: 100%;
+            text-align: left;
+            background: transparent;
+            border: none;
+            outline: none;
+        }
+
+        .profile-container input[disabled] {
+            color: #888;
+        }
+
+        .profile-container button {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        .profile-container button:hover {
+            background-color: #0056b3;
+        }
+
+        .file-input {
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="profile-container">
+        <!-- Profile Image -->
+        <img id="profileImage" src="profile.png" alt="Profile Image">
+
+        <!-- Full Name -->
+        <h2 id="displayName">Dalitso Malama</h2>
+
+        <!-- Email Info (Non-editable) -->
+        <p>dalitso.malama@gmail.com</p>
+
+        <!-- Intern Info Fields -->
+        <div class="info">
+            <span>Full Name</span>
+            <input type="text" id="fullName" value="Dalitso Malama" disabled>
+        </div>
+
+        <div class="info">
+            <span>Gender</span>
+            <input type="text" id="gender" value="Male" disabled>
+        </div>
+
+        <div class="info">
+            <span>Contact</span>
+            <input type="text" id="contact" value="+260-970203074" disabled>
+        </div>
+
+        <div class="info">
+            <span>Address</span>
+            <input type="text" id="address" value="23 Copper Street, Kitwe, Zambia" disabled>
+        </div>
+
+        <!-- File input for changing profile picture -->
+        <input type="file" id="imageUpload" class="file-input" accept="image/*">
+
+        <!-- Edit/Save Button -->
+        <button id="editBtn">Edit</button>
+    </div>
+
+    <script>
+        const editBtn = document.getElementById('editBtn');
+        const fullNameInput = document.getElementById('fullName');
+        const contactInput = document.getElementById('contact');
+        const addressInput = document.getElementById('address');
+        const displayName = document.getElementById('displayName');
+        const profileImage = document.getElementById('profileImage');
+        const imageUpload = document.getElementById('imageUpload');
+
+        let isEditMode = false;
+
+        editBtn.addEventListener('click', function() {
+            if (isEditMode) {
+                // Save mode: Disable inputs and update display name
+                fullNameInput.disabled = true;
+                contactInput.disabled = true;
+                addressInput.disabled = true;
+                displayName.textContent = fullNameInput.value; // Update the name at the top
+                editBtn.textContent = 'Edit';
+            } else {
+                // Edit mode: Enable inputs
+                fullNameInput.disabled = false;
+                contactInput.disabled = false;
+                addressInput.disabled = false;
+                editBtn.textContent = 'Save';
+            }
+            isEditMode = !isEditMode;
+        });
+
+        // Change profile image
+        imageUpload.addEventListener('change', function(event) {
+            const file = event.target.files[0];
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = function(e) {
+                    profileImage.src = e.target.result; // Update the profile image
+                }
+                reader.readAsDataURL(file);
+            }
+        });
+    </script>
+
+</body>
+</html>

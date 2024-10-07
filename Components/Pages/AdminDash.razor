@@ -1,0 +1,49 @@
+﻿@page "/AdminDash"
+
+<PageTitle>Admin</PageTitle>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Dashboard</title>
+    <link rel="stylesheet" href="~/Styles.css">
+</head>
+<body>
+    <div class="dashboard-container">
+        <h1>Admin Dashboard</h1>
+
+        <div class="cards-container">
+            <div class="card">
+                <h2>Interns</h2>
+                <p>Manage and view interns' details.</p>
+                <button class="view-btn" onclick="location.href='/intern'">View Interns</button>
+            </div>
+
+            <div class="card">
+                <h2>Projects</h2>
+                <p>Assign and monitor projects.</p>
+                <button class="view-btn" onclick="location.href='/Project'">Manage Projects</button>
+            </div>
+
+            <div class="card">
+                <h2>Department</h2>
+                <p>Oversee department activities and assignments.</p>
+                <button class="view-btn" onclick="location.href='/Department'">Manage Department</button>
+            </div>
+        </div>
+
+        <button class="logout-btn" onclick="logout()">Logout</button>
+    </div>
+
+
+
+    <script>
+        function logout() {
+            // Redirect to login page
+            window.location.href = "/"; // Adjust the path if necessary
+        }
+    </script>
+</body>
+</html>

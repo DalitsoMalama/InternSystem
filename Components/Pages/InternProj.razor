@@ -1,0 +1,108 @@
+﻿@page "/InternProj"
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projects Management</title>
+    <link rel="stylesheet" href="~/Styles.css">
+    <style>
+        /* General Styles */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f1f1f1;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: column;
+            justify-content: center; /* Center vertically */
+            align-items: center; /* Center horizontally */
+            width: 100%; /* Full width */
+            height: 100%; /* Full height */
+            max-width: 1200px; /* Limit max width */
+            padding: 20px;
+            box-sizing: border-box; /* Include padding in height/width */
+        }
+
+        .project-list {
+            background-color: white;
+            border-radius: 20px;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+            width: 100%; /* Full width */
+            padding: 20px;
+            text-align: center; /* Center text inside the card */
+            flex-grow: 1; /* Allow the card to grow and take available space */
+        }
+
+        table {
+            width: 100%; /* Full width of the card */
+            border-collapse: collapse;
+            margin-top: 20px; /* Space above the table */
+        }
+
+        table th, table td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: left;
+        }
+
+        table th {
+            background-color: #007bff;
+            color: white;
+        }
+
+        table td {
+            background-color: #f9f9f9;
+        }
+    </style>
+
+</head>
+<body>
+    <div class="container">
+        <div class="project-list">
+            <h2>List of Projects</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Project ID</th>
+                        <th>Project Title</th>
+                        <th>Description</th>
+                        <th>Role of Intern</th>
+                        <th>Supervisor</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Sample data -->
+                    <tr>
+                        <td>1</td>
+                        <td>Website Redesign</td>
+                        <td>Redesign the corporate website to improve user experience.</td>
+                        <td>UI Design</td>
+                        <td>Mr Alex</td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td>Mobile App Development</td>
+                        <td>Develop a cross-platform mobile app for customer engagement.</td>
+                        <td>Back-end development</td>
+                        <td>Mr Mwanza</td>
+                    </tr>
+                    <!-- Add more rows dynamically here if needed -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script>
+        // Additional JavaScript for future functionalities can be added here
+    </script>
+</body>
+</html>

@@ -1,0 +1,301 @@
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\appsettings.json
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\InternInfoSystem.staticwebassets.runtime.json
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\InternInfoSystem.exe
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\InternInfoSystem.deps.json
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\InternInfoSystem.runtimeconfig.json
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\InternInfoSystem.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\InternInfoSystem.pdb
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\InternInfoSystem.csproj.AssemblyReference.cache
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\InternInfoSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\InternInfoSystem.AssemblyInfoInputs.cache
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\InternInfoSystem.AssemblyInfo.cs
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\InternInfoSystem.csproj.CoreCompileInputs.cache
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\InternInfoSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\staticwebassets\msbuild.InternInfoSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.InternInfoSystem.props
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.InternInfoSystem.props
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.InternInfoSystem.props
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\scopedcss\bundle\InternInfoSystem.styles.css
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\scopedcss\projectbundle\InternInfoSystem.bundle.scp.css
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\InternIn.FBD03212.Up2Date
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\InternInfoSystem.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\refint\InternInfoSystem.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\InternInfoSystem.pdb
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\InternInfoSystem.genruntimeconfig.cache
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\ref\InternInfoSystem.dll
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\scopedcss\Components\Pages\Intern.razor.rz.scp.css
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\scopedcss\Components\Pages\Department.razor.rz.scp.css
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\scopedcss\Components\Pages\Home.razor.rz.scp.css
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\scopedcss\Components\Pages\Project.razor.rz.scp.css
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\scopedcss\Components\Pages\AdminDash.razor.rz.scp.css
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\scopedcss\Components\Pages\InternDash.razor.rz.scp.css
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\scopedcss\Components\Pages\InternProfile.razor.rz.scp.css
+C:\Users\Myles Punde\source\repos\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\scopedcss\Components\Pages\InternProj.razor.rz.scp.css
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\appsettings.Development.json
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\appsettings.json
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\InternInfoSystem.staticwebassets.runtime.json
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\InternInfoSystem.exe
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\InternInfoSystem.deps.json
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\InternInfoSystem.runtimeconfig.json
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\InternInfoSystem.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\InternInfoSystem.pdb
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Azure.Core.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Azure.Identity.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Humanizer.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\System.CodeDom.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\System.Text.Json.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\InternInfoSystem.csproj.AssemblyReference.cache
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\InternInfoSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\InternInfoSystem.AssemblyInfoInputs.cache
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\InternInfoSystem.AssemblyInfo.cs
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\InternInfoSystem.csproj.CoreCompileInputs.cache
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\InternInfoSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\staticwebassets.build.json
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\staticwebassets.development.json
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\staticwebassets\msbuild.InternInfoSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.InternInfoSystem.props
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.InternInfoSystem.props
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.InternInfoSystem.props
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\scopedcss\Components\Pages\AdminDash.razor.rz.scp.css
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\scopedcss\Components\Pages\Department.razor.rz.scp.css
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\scopedcss\Components\Pages\Home.razor.rz.scp.css
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\scopedcss\Components\Pages\Intern.razor.rz.scp.css
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\scopedcss\Components\Pages\InternDash.razor.rz.scp.css
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\scopedcss\Components\Pages\InternProfile.razor.rz.scp.css
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\scopedcss\Components\Pages\InternProj.razor.rz.scp.css
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\scopedcss\Components\Pages\Project.razor.rz.scp.css
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\scopedcss\bundle\InternInfoSystem.styles.css
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\scopedcss\projectbundle\InternInfoSystem.bundle.scp.css
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\InternIn.FBD03212.Up2Date
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\InternInfoSystem.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\refint\InternInfoSystem.dll
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\InternInfoSystem.pdb
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\InternInfoSystem.genruntimeconfig.cache
+C:\Master Folder\Computer Engineering\4th Year\DICT\InternInfoSystem\InternInfoSystem\obj\Debug\net8.0\ref\InternInfoSystem.dll

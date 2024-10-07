@@ -1,0 +1,57 @@
+﻿@page "/"
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="login-container">
+        <div class="login-box">
+            <img src="CBU_Logo.png" alt="Logo" class="logo">
+            <h2>Internship Management</h2>
+            <form onsubmit="redirectUser(event)">
+                <div class="input-group">
+                    <!-- Added id for the username input -->
+                    <input type="text" id="username" name="username" placeholder="Username" required>
+                </div>
+                <div class="input-group">
+                    <input type="password" name="password" placeholder="Password" required id="password">
+                    <span class="show-password" onclick="togglePassword()"> Show Password</span>
+                </div>
+                <button type="submit" class="login-btn">Login</button>
+            </form>
+            <a href="forgotPassword.html" class="forgot-password">Forgot Password?</a>
+        </div>
+    </div>
+
+    <script>
+        function togglePassword() {
+            const passwordInput = document.getElementById('password');
+            const type = passwordInput.getAttribute('type') === 'password' ? 'text' : 'password';
+            passwordInput.setAttribute('type', type);
+        }
+    </script>
+
+    <script>
+        function redirectUser(event) {
+            event.preventDefault(); // Prevent form submission
+
+            // Access username and password by their correct IDs
+            const username = document.getElementById('username').value;
+            const password = document.getElementById('password').value;
+
+            if (username === "admin" && password === "admin") {
+                // Redirect to Admin dashboard if username and password match "admin"
+                window.location.href = "/AdminDash";
+            } else {
+                // Redirect to Intern dashboard for any other username/password
+                window.location.href = "/internDash";
+            }
+        }
+    </script>
+</body>
+</html>

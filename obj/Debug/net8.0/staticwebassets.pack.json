@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Master Folder\\Computer Engineering\\4th Year\\DICT\\InternInfoSystem\\InternInfoSystem\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\InternInfoSystem.bundle.scp.css",
+      "PackagePath": "staticwebassets\\InternInfoSystem.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Master Folder\\Computer Engineering\\4th Year\\DICT\\InternInfoSystem\\InternInfoSystem\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Master Folder\\Computer Engineering\\4th Year\\DICT\\InternInfoSystem\\InternInfoSystem\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Master Folder\\Computer Engineering\\4th Year\\DICT\\InternInfoSystem\\InternInfoSystem\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Master Folder\\Computer Engineering\\4th Year\\DICT\\InternInfoSystem\\InternInfoSystem\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.InternInfoSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.InternInfoSystem.props",
+      "PackagePath": "build\\InternInfoSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.InternInfoSystem.props",
+      "PackagePath": "buildMultiTargeting\\InternInfoSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.InternInfoSystem.props",
+      "PackagePath": "buildTransitive\\InternInfoSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
